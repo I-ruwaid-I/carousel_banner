@@ -1,0 +1,29 @@
+name: carousel_banner
+description: >-
+  A swipeable, infinitely looping Flutter banner carousel with color or image
+  backgrounds and a mandatory bottom-anchored title and subtitle.
+version: 0.1.3
+homepage: https://pub.dev/packages/carousel_banner
+repository: https://github.com/I-ruwaid-I/carousel_banner
+issue_tracker: https://github.com/I-ruwaid-I/carousel_banner/issues
+
+environment:
+  sdk: ^3.7.0
+  flutter: ">=1.17.0"
+
+topics:
+  - carousel
+  - banner
+  - slider
+  - ui
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
